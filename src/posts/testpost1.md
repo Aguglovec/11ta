@@ -3,7 +3,7 @@ title: Blockquotes - Shortcodes
 date: 2020-09-21
 excerpt: Blockquotes are easy, even in Markdown. But what if you want to style them?
 author: shane-robinson
-draft: 
+draft:
 seo:
   title:
   description:
@@ -31,7 +31,7 @@ heroSettings:
     video: pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: test TEST
+  headingText: TEST 3333
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
   subheadingText: This is some pithy text that explains why you should hire us without reading any further... Or is it farther?
@@ -47,6 +47,5 @@ heroSettings:
       - home/6.jpg
       - home/7.jpg
       - home/8.jpg
-      - home/9.jpg 
+      - home/9.jpg
 ---
-
